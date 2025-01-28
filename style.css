@@ -14,3 +14,13 @@
     border-radius: 5px;
     color:red;
 }
+
+.result{
+
+  width: 150px;
+  background-color:red;  
+  color: aqua;
+  height: 40px;
+  border: none;
+  border-radius: 6px;
+}
